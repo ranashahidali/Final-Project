@@ -1,0 +1,682 @@
+body{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.bii{
+    position: relative;
+    padding-left: 78px;
+    bottom: 29px;
+    
+}
+
+.sel{
+      position: relative;
+      right: 70px;
+      top: 38px;
+      border: 0px;
+}
+
+.biii{
+   position: relative;
+   right: 60px;
+   top: 38px;
+}
+
+.bt{
+    position: relative;
+    right: 70px;
+    top: 33px;
+    width: 90px;
+    height: 40px;
+    background: white;
+    border-radius: none !important;
+    border: none;
+
+}
+
+
+    /* 2nd part */
+.bg{
+    background-color: white;
+    height: 400px;
+    width: 140px !important;
+    border-bottom-left-radius: 55px;
+    border-bottom-right-radius: 55px;
+}    
+
+.custom-select {
+    border: none; 
+    appearance: none; 
+    padding: 5px; 
+    margin-top: 20px;
+    margin-left: 10px;
+    background-color: none;
+}
+
+.custom-select::after {
+    content: "\25BC"; 
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+}
+
+.mg{
+    margin-left: 33px;
+
+}
+
+.th1{
+    font-size: 55px;
+    line-height: 1.3;
+}
+
+.bt2{
+    border-radius: none;
+    border: none;
+    width: 150px;
+    height: 40px;
+}
+
+.bg1{
+    background-color: yellow;
+    
+    /* height: 100%; */
+   
+}
+
+
+    /* pak vs aus */
+
+.bw{
+    background-color: whitesmoke;
+    height: 400px;
+}   
+
+.bls{
+    height: 250px;
+    background-color: blue;
+    width: 60% !important;
+    margin-top: 110px!important;
+    box-shadow: 3px 3px;
+}
+
+.mm{
+    margin-top: 38px;
+    margin-left: 150px;
+}
+
+.bgy{
+
+    background-color: yellow;
+    border-radius: 2000px;
+    height: 25px;
+    width: 4% !important;
+    margin-top: 70px;
+    /* margin-left: auto; */
+    
+}
+
+
+.vs{
+    margin-left: 4px;
+    
+    
+}
+
+.MM{
+    margin-left: 30px;
+    margin-top: 38px;
+}
+
+.shs{
+    position: relative;
+    top: 6px;
+    right: 30px;
+}
+
+.sh{
+    position: relative;
+    top: 6px;
+    right: 40px;
+}
+
+.m{
+    position: relative;
+    top: 150px;
+    right: 55px;
+}
+
+.m1{
+   position: relative;
+   top: 179px;
+   right: 95px;
+
+
+}
+
+
+
+      /* 3rd Part */
+
+.col{
+    background-color: whitesmoke;
+    height: 300px;
+
+}
+
+/* <!-- 4th Part Carosoul--> */
+
+.cc{
+    height: 800px;
+}
+
+.pp{
+    position: relative;
+    top: 10px;
+    right: 0px;
+    left: 80px;
+
+}
+
+.win{
+    position: relative;
+    top: 70px;
+    /* right: 100px; */
+}
+
+.wc{
+    position: relative;
+    top: 130px;
+    right: 50px;
+}
+
+
+/* <!-- 5th part --> */
+
+.hei{
+    height: 200px;
+    background-color: whitesmoke;
+    
+}
+
+.img{
+    position: relative;
+    bottom: 70px;
+    left: 175px;
+}
+
+.hhr{
+    position: relative;
+    bottom: 10px;
+    width: 40% ;
+}
+
+
+/* <!-- 6th part next matches --> */
+
+.nb{
+    background-color: whitesmoke;
+    height: 540px;
+}
+
+.bgc{
+    background-color: white;
+    width: 95% !important;
+    height: 130px;
+}
+
+.hm1{
+    position: relative;
+    bottom: 15px;
+}
+
+.in{
+    position: relative;
+    bottom: 75px;
+    left: 95px;
+}
+
+.VS{
+    position: relative;
+    bottom: 107px;
+    left: 200px;
+    background-color: yellow;
+    border-radius: 80px;
+}
+
+.pak{
+    position: relative;
+    bottom: 134px;
+    left: 260px;
+}
+
+.immg{
+    position: relative;
+    bottom: 190px;
+    left: 383px;
+}
+
+.pos{
+    position: relative;
+    bottom: 100px;
+    background-color: white;
+    width: 97% !important;
+    height: 120px;
+}
+
+.hm3{
+    position: relative;
+    top: 20px;
+}
+
+.en{
+    position: relative;
+    bottom: 37px;
+    left: 100px;
+}
+
+.VSS{
+    position: relative;
+    bottom: 72px;
+    left: 235px;
+    background-color: yellow;
+    border-radius: 80px;
+}
+
+.Ind{
+    position: relative;
+    bottom: 100px;
+    left: 280px;
+}
+
+.immg1{
+    position: relative;
+    bottom: 150px;
+    left: 380px;
+
+}
+
+.last{
+    position: relative;
+    bottom: 30px;
+    background-color: white;
+    width: 97% !important;
+    height: 120px;
+
+}
+
+
+.gmm3{
+    position: relative;
+    right: 5px;
+    bottom: 30px;
+}
+
+.engg{
+    position: relative;
+    bottom: 88px;
+    left: 100px;
+}
+
+.VS2{
+    position: relative;
+    bottom: 120px;
+    left: 240px;
+    background-color: yellow;
+    border-radius: 300px;
+}
+
+.ind{
+    position: relative;
+    bottom: 148px;
+    left: 280px;
+}
+
+.im1{
+    position: relative;
+    bottom: 205px;
+    left: 384px;
+}
+
+
+/* <!-- 7th Media Photos --> */
+
+.whr{
+    width: 16%;
+    position: relative;
+    bottom: 6%;
+    height: 10px;
+    box-shadow: 0 20px 20px -20px #333;
+}
+
+
+.bg11{
+    background-color: whitesmoke;
+    height: 390px;
+}
+
+.bgww{
+    background-color: whitesmoke;
+    height: 420px;
+}
+
+.bat{
+    position: relative;
+    bottom: 250px;
+}
+
+
+.box3 .bat{
+   
+    transition: transform 0.3s;
+}
+
+.box3:hover .bat{
+    transform: scale(1.3);
+}
+
+
+.box4 .bat{
+   
+    transition: transform 0.3s;
+}
+
+.box4:hover .bat{
+    transform: scale(1.3);
+}
+
+
+.box5 .bat{
+   
+    transition: transform 0.3s;
+}
+
+.box5:hover .bat{
+    transform: scale(1.3);
+}
+
+
+
+
+.pic8{
+    position: relative;
+    bottom: 230px;
+    width: 76%;
+}
+
+.box .pic8{
+   
+    transition: transform 0.3s;
+}
+
+.box:hover .pic8{
+    transform: scale(1.3);
+}
+
+.pic7{
+    position: relative;
+    bottom: 300px;
+    right: 80px;
+}
+
+.box1 .pic7{
+   
+    transition: transform 0.3s;
+}
+
+.box1:hover .pic7{
+    transform: scale(1.3);
+}
+
+
+.chp{
+    position: relative;
+    bottom: 450px;
+    left: 20px;
+    height: 370px !important;
+}
+
+.box2 .chp{
+   
+    transition: transform 0.3s;
+}
+
+.box2:hover .chp{
+    transform: scale(1.3);
+}
+
+
+
+/* <!-- 8th average cal --> */
+
+.spp{
+    position: relative;
+    right: 20px;
+}
+
+.st{
+    position: relative;
+    bottom: 0px;
+    right: 55px;
+}
+
+.sp{
+    position: relative;
+    right: 10px;
+}
+
+
+
+/* <!-- 9th Latest News --> */
+
+.back{
+    background-color: whitesmoke;
+    height: 1150px;
+}
+
+.icc{
+    position: relative;
+    bottom: 40px;
+    left: 120px;
+}
+
+.hp{
+    position: relative;
+    bottom: 45px;
+    left: 10px;
+    width: 50%;
+}
+
+
+.bg-{
+    background-color: yellow;
+    position: relative;
+    top: 42px;
+    left: 20px;
+}
+
+.boxx{
+    transition: transform 0.2s;
+}
+
+.boxx:hover .ne{
+    transform: scale(1.1);
+    
+}
+
+.boxx:hover .ne2{
+    transform: scale(1.1);
+    
+}
+
+
+.coll{
+    position: relative;
+    top:23px;
+    right: 19px;
+    background-color: white;
+    height: 352px;
+}
+
+.liv{
+    position: absolute;
+    left: 410px;
+    bottom: 295px;
+    color: red;
+}
+
+.lo{
+    position: relative;
+   bottom: 1px;
+    color: yellow;
+    left: 15px;
+}
+
+.nyork{
+    position: relative;
+    bottom: 2px;
+    left: 18px;
+}
+
+.sh{
+
+    position: relative;
+    left: 18px;
+}
+
+.mon{
+    position: relative;
+    left: 100px;
+    top: 4px;
+}
+
+.re{
+    position: relative;
+    left: 185px;
+    top: 6px;
+    border: none;
+    background-color: blue;
+
+}
+
+
+/* <!-- 10th official store --> */
+
+.off{
+    height: 800px;
+}
+
+.hh1{
+    position: relative;
+    bottom: 16px;
+}
+
+.sl{
+    color: #C4C4C4;
+}
+
+.bw2{
+    background-color: whitesmoke;
+    height: 370px;
+}
+
+.ht{
+    position: absolute;
+    background-color: #5E44DC;
+}
+
+.adt{
+    background-color: white;
+    text-decoration: none;
+    margin-left: 79px;
+
+}
+
+
+     /* last part */
+
+.bl{
+    background-image: url("btb.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+
+.fus{
+    position: relative;
+    left: 145px;
+    bottom: 80px;
+}
+
+.dt{
+    position: relative;
+    left: 145px;
+    bottom: 120px;
+}
+
+/* .boxl{
+    color: white;
+    transition: color 0.8s;
+}
+
+.boxl :hover .fus{
+    color: red;
+} */
+
+
+.iml{
+    position: relative;
+    right: 48px;
+    bottom: 50px;
+}
+
+.hl{
+    position: relative;
+    bottom: 128px;
+    left: 140px;
+}
+
+.da{
+    position: relative;
+    bottom: 148px;
+    left: 137px;
+}
+
+.usl{
+    position: relative;
+    /* right: 10px; */
+}
+
+.ull{
+    position: relative;
+    right: 20px;
+}
+
+.al{
+    position: relative;
+    right: 18px;
+    top: 25px;
+}
+
+.li{
+    position: relative;
+    top: 42px;
+    right: 18px;
+}
+
+.lii{
+    position: relative;
+    top: 55px;
+    right: 18px;
+}
+
+.lst{
+    position: relative;
+    top: 70px;
+    right: 18px;
+}
